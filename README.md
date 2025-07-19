@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web application on Psychometric Test.
 - 🌱 I’m currently learning Jest.
-- 👯 I’m looking to collaborating with IKSC Knowledge Bridge.
+- 👯 I’m collaborating with IKSC Knowledge Bridge.
 - 📫 How to reach me: 9579669487.
 
 
